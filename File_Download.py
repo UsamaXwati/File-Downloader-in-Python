@@ -22,5 +22,4 @@ def download_file(c_url):
     fw.close()
 
 download_file(down_url)
-
 print("\nDownload Completed")
