@@ -1,10 +1,10 @@
-Online Files Downloader
+#Online Files Downloader
 
-This online files downloader is mini project in Python.
+###This online files downloader is mini project in Python.
 
 The downloader is currently set to Download files with the extension '.html'. You can change the code to download files in other extensions.
 
-Usage:
+##Usage:
 From the termianl: python File_Download.py
 
 The program will prompt to enter the link.
